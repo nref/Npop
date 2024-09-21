@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "npop.Windows", "npop.Window
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Npop.macOS.Raw", "Npop.macOS.Raw\Npop.macOS.Raw.csproj", "{0AAA3F11-AD74-464D-B43B-1239DE2CDBCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Npop.Linux", "Npop.Linux\Npop.Linux.csproj", "{7419B0F5-7F38-4A9D-B3D0-F28124BA69E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{0AAA3F11-AD74-464D-B43B-1239DE2CDBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AAA3F11-AD74-464D-B43B-1239DE2CDBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AAA3F11-AD74-464D-B43B-1239DE2CDBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7419B0F5-7F38-4A9D-B3D0-F28124BA69E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7419B0F5-7F38-4A9D-B3D0-F28124BA69E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7419B0F5-7F38-4A9D-B3D0-F28124BA69E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7419B0F5-7F38-4A9D-B3D0-F28124BA69E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
